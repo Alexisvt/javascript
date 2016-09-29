@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "first_name": "Susan",
+  "last_name": "Johnston",
+  "email": "sjohnston0@gravatar.com",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Bruce",
+  "last_name": "Baker",
+  "email": "bbaker1@people.com.cn",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Gary",
+  "last_name": "Reynolds",
+  "email": "greynolds2@creativecommons.org",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "first_name": "Virginia",
+  "last_name": "Rodriguez",
+  "email": "vrodriguez3@theglobeandmail.com",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "first_name": "Billy",
+  "last_name": "Duncan",
+  "email": "bduncan4@thetimes.co.uk",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "first_name": "Gloria",
+  "last_name": "Jacobs",
+  "email": "gjacobs5@acquirethisname.com",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "first_name": "Peter",
+  "last_name": "Reed",
+  "email": "preed6@ucoz.com",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "first_name": "Judith",
+  "last_name": "Ruiz",
+  "email": "jruiz7@wunderground.com",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "first_name": "Jack",
+  "last_name": "Boyd",
+  "email": "jboyd8@arstechnica.com",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "first_name": "Jonathan",
+  "last_name": "Austin",
+  "email": "jaustin9@gmpg.org",
+  "gender": "Male"
+}]
