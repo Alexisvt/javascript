@@ -16,15 +16,15 @@ function controller(generator){
 	
 	const it = generator();
 	
-	const fn = ({value, done}) => {
+	const advancer = ({value, done}) => {
 		if(!done){
 			value.then( data => {
-				return fn(it.next(data));
+				advancer(it.next(data));
 			})
 		}
 	};
 	
-	return fn(it.next());
+	advancer(it.next());
 	
 }
 
